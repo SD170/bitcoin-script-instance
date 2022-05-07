@@ -31,7 +31,7 @@ The specific transactions used for P2PKH and P2SH are mentioned in the bash scri
 Used shell script to start the btcdeb environment execution.
 
 #### 1) Clone the repository:
-    git clone https://github.com/SD170/meeting-scheduler-backend
+    git clone https://github.com/SD170/bitcoin-script-instance
 #### 2) Run a script:
 On the project root folder, run:
     
